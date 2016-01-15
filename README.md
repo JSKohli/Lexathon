@@ -37,3 +37,9 @@ Lexathon is a word game that we made as part of an academic group project for ou
 * We have implemented sounds to indicate input of wrong and right answers.
 * Our lexathon has a time counter to limit the time a player can use to enter the word. For each valid input the player is given more time.
 * We have used interactive dialogue box alert messages for the player.
+
+### Screenshots from the Game
+
+![Game start](https://raw.githubusercontent.com/JSKohli/Lexathon/master/Screenshots/Screenshot1.jpg)
+
+![Screenshot2](https://raw.githubusercontent.com/JSKohli/Lexathon/master/Screenshots/Screenshot2.jpg)
