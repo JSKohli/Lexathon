@@ -2,7 +2,7 @@
 Contributors: Jaswin Kohli, Paarth Kapadia, Aahan Sawhney
 
 ### About
-Lexathon is a word game that we made as part of an academic group project for our Computer Architecture class.
+Lexathon is a word game that we made as part of an academic group project for our Computer Architecture class. At present the game lacks user friendliness. I intend to make the interface slightly more intuitive. 
 
 ### Instructions for installing and running Lexathon:
 * Download the zip file. Extract it's contents.
