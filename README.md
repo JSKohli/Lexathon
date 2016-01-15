@@ -27,12 +27,13 @@ Lexathon is a word game that we made as part of an academic group project for ou
 
 ### Limitations of our Program:
 * The random letters do not always form valid words from the dictionary.
-* The total number of valid words that can be formed using the random letters generated can't be calculated.
+* The dictionary does not have all the valid words.
+* The total number of valid words that can be formed using the random letters generated have not been calculated.
 * The program can display the time remaining only after the player inputs a word.
 * There's no graphic user interface.
+* Program terminates if you use backspace.
 
 ### Extra Features:
 * We have implemented sounds to indicate input of wrong and right answers.
-* Program terminates if you use backspace.
 * Our lexathon has a time counter to limit the time a player can use to enter the word. For each valid input the player is given more time.
 * We have used interactive dialogue box alert messages for the player.
