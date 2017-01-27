@@ -4,14 +4,6 @@ Contributors: Jaswin Kohli, Paarth Kapadia, Aahan Sawhney
 ### About
 Lexathon is a word game that we made as part of an academic group project for our Computer Architecture class. At present the game lacks user friendliness. I intend to make the interface slightly more intuitive. 
 
-### Instructions for installing and running Lexathon:
-* Download the zip file. Extract it's contents.
-* Copy the dictionary2.txt into the folder from where you will running Mars simulator.
-* Open Mars Simulator and load the LexathonGame.asm file.
-* Next, assemble the program by clicking on assemble. 
-* Then click hit play. You will see, "Lets' Play Lexathon!" message to indicate start of Game play.
-* For best experience, maximize the output screen. Enjoy the game!
-
 ### How to Play:
 * The player is given a grid consisting of nine randomly generated vowels or consonants.
 * The player is given 120 seconds as initial time in which he has to form a word using only the letters in the grid (without repetition).
